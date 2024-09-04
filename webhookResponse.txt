@@ -1,0 +1,8 @@
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Company\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"planId\":\"\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
+"{\"type\":\"INSTALL\",\"appId\":\"66cce6ea1b7d7ae6b79a67b9\",\"installType\":\"Location\",\"locationId\":\"Y0SAusN39p7rHN1636Df\",\"companyId\":\"ia1h3fdAHy17LdjAKZjj\",\"trial\":{}}"
